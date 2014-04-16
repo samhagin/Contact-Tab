@@ -1,0 +1,21 @@
+#subject, #email {
+border-style: solid;
+border-width: 1px;
+border-radius: 3px;
+padding: 3px 8px;
+line-height: 100%;
+font-size: 1.7em;
+width: 100%;
+}
+.ct_unread {
+font-weight: bold;
+}
+.ct_replied td{
+color: green;
+}
+.ct_read td {
+background-color: #EBEBEB;
+}
+.ct_header {
+border 1px solid grey;
+}
